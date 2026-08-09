@@ -28,4 +28,4 @@ powershellにてscoopコマンドが使えるようになっていることが�
 
 [The Unlicense](./LICENSE)
 
-Copyright (c) 2023 [shift](https://twitter.com/_shift4869)
+Copyright (c) 2023 ~ [shift](https://twitter.com/_shift4869)
