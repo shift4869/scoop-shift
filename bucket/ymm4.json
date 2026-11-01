@@ -1,10 +1,10 @@
 {
-    "version": "4.56.1.0",
+    "version": "4.57.0.0",
     "description": "動画編集ソフト「ゆっくりMovieMaker4」",
     "homepage": "https://manjubox.net/ymm4/",
     "license": "Unknown",
-    "url": "https://github.com/manju-summoner/YukkuriMovieMaker4/releases/download/v4.56.1.0/YukkuriMovieMaker_v4.56.1.0.zip",
-    "hash": "34b5f4c737345f1b82507381af514fc14b629f35e9ba778c25434f235fdb35cf",
+    "url": "https://github.com/manju-summoner/YukkuriMovieMaker4/releases/download/v4.57.0.0/YukkuriMovieMaker_v4.57.0.0.zip",
+    "hash": "f82af2eea8f274e9811f0f95f3b46068a226cb55eaacd9272751813e4ca96781",
     "bin": [
         [
             "YukkuriMovieMaker.exe",
